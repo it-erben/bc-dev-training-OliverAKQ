@@ -24,6 +24,16 @@ table 50300 "Training Item"
             OptionMembers = Low,Medium,High;
             OptionCaption = 'Niedrig,Mittel,Hoch';
         }
+        field(4; "Priority"; Option)
+        {
+            Caption = 'Prioritaet';
+            OptionMembers = Low,Medium,High;
+            OptionCaption = 'Niedrig,Mittel,Hoch';
+        }
+        field(5; "Completed Date"; Date)
+        {
+            Caption = 'Erledigungsdatum';
+        }
 
     }
 
