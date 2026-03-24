@@ -28,6 +28,10 @@ page 50300 "Training Items"
                 {
                     ApplicationArea = All;
                 }
+                field("Completed Dates"; Rec."Completed Date")
+                {
+                    ApplicationArea = All;
+                }
 
             }
         }
