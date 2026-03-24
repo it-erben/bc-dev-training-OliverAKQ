@@ -1,4 +1,4 @@
-page 50100 "Training Items"
+page 50300 "Training Items"
 {
     Caption = 'Training Items';
     PageType = List;
