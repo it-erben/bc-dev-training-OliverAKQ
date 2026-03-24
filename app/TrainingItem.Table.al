@@ -30,7 +30,7 @@ table 50300 "Training Item"
             OptionMembers = Low,Medium,High;
             OptionCaption = 'Niedrig,Mittel,Hoch';
         }
-        field(5; "Completed Date"; Date)
+        field(5; "Completed Dates"; Date)
         {
             Caption = 'Erledigungsdatum';
         }
