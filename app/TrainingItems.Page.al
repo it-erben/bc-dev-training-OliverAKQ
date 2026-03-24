@@ -24,6 +24,11 @@ page 50300 "Training Items"
                 {
                     ApplicationArea = All;
                 }
+                field(Priority; Rec.Priority)
+                {
+                    ApplicationArea = All;
+                }
+
             }
         }
     }
